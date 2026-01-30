@@ -48,61 +48,45 @@ Key Features:
 Tech Stack
 Frontend:
 
-React
+- React
 
-HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
-Deployed on Vercel
+- Deployed on Vercel
 
 Backend:
 
-Python
+- Python
 
-FastAPI
+- FastAPI
 
-Pandas
+- Pandas
 
-REST APIs
+- REST APIs
 
-Deployed on Render
+- Deployed on Render
 
 AI / ML:
 
-OpenAI GPT (LLM)
+- OpenAI GPT (LLM)
 
-Prompt Engineering
+- Prompt Engineering
 
-NLP-based insight generation
-
-Project Architecture:
-financial-health-ai/
-│
-├── backend/
-│   ├── main.py          # FastAPI app & API endpoints
-│   ├── analysis.py      # Financial metric calculations
-│   ├── ai_insights.py   # LLM integration & prompt engineering
-│   └── requirements.txt
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── README.md
+- NLP-based insight generation
 
 How It Works:
 
-User uploads a financial CSV file via the React frontend
+- User uploads a financial CSV file via the React frontend
 
-Frontend sends the file to the backend using a REST API
+- Frontend sends the file to the backend using a REST API
 
-Backend processes the data using Pandas
+- Backend processes the data using Pandas
 
-Financial metrics and health score are calculated
+- Financial metrics and health score are calculated
 
-Metrics are passed to an LLM using a structured prompt
+- Metrics are passed to an LLM using a structured prompt
 
-AI-generated insights are returned and displayed on the UI
+- AI-generated insights are returned and displayed on the UI
 
 Environment Variables:
 
@@ -133,23 +117,23 @@ Hackathon Context:
 
 This project was developed as part of the Career Carnival Hackathon, focusing on:
 
-Practical AI applications
+- Practical AI applications
 
-REST API development
+- REST API development
 
-LLM integration
+- LLM integration
 
-Full-stack deployment
+- Full-stack deployment
 
 Future Enhancements:
 
-Financial forecasting using ML models
+- Financial forecasting using ML models
 
-RAG-based insights with vector databases
+- RAG-based insights with vector databases
 
-Authentication and user dashboards
+A- uthentication and user dashboards
 
-Integration with accounting or GST APIs
+- Integration with accounting or GST APIs
 
 Acknowledgements:
 
