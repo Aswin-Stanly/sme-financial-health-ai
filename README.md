@@ -29,7 +29,7 @@ This application allows users to:
 
 - Receive AI-powered, human-readable insights and recommendations
 
-T- he system converts raw numerical data into clear, actionable business insights using a Large Language Model (LLM).
+- The system converts raw numerical data into clear, actionable business insights using a Large Language Model (LLM).
 
 Key Features:
 
